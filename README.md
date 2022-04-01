@@ -1,8 +1,8 @@
-## Automated ELK Stack Deployment
+## Automated AZURE ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 
-![My dream car](Images/mydreamcar.jpg)
+![My awesome dream car](Images/mydreamcar.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
